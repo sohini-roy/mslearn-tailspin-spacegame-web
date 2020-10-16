@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/soroychoDevOpsPractise/Space%20Game%20-%20web/_apis/build/status/sohini-roy.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/soroychoDevOpsPractise/Space%20Game%20-%20web/_build/latest?definitionId=3&branchName=build-pipeline)
 
 # Contributing
 
